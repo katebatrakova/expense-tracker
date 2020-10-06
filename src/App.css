@@ -1,0 +1,20 @@
+.container {
+  margin-top: 20%;
+}
+
+.transactionPaper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.MuiTypography-caption {
+  place-self: center;
+}
+
+.moneyPlus {
+  color: greenyellow;
+}
+
+.moneyMinus {
+  color: red;
+}
